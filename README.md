@@ -19,7 +19,7 @@ This project was to use Jupyter Notebook to carry out analysis and visualization
 ## Results
 Total Fare by City Type
 
-<img src="Resources/Total Fare by City Type.png" width="900" height="300"> 
+<img src="Resources/Total Fare by City Type.png" width="1100" height="300"> 
 
 Data Summary
 
