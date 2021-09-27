@@ -23,7 +23,7 @@ Total Fare by City Type
 
 Data Summary
 
-<img src="Resources/Data Summary.png" width="900" height="300"> 
+<img src="Resources/Data Summary.png" width="1100" height="250"> 
 
 From the above information in the Total Fare by City Type and Data Summary, you can see that the total sum of fares for urban ride shares from Janauary to April 2019 was nearly three times the total sum of fares for rural ride shares. This means urban ride shares are far more popular than rural ride shares, which makes sense due to density in population and number of available drivers. We can also see the fare cost for riders is far more expensive in rural locations, than in urban. And the total fare received by the driver is higher than in urban cities. This could be due to supply and demand, due to low supply in rural locations the price is increased which in turn decreases demand. For the urban fares, with supply being high this drives prices down which increases demand due to prices being low.
 
