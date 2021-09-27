@@ -14,9 +14,16 @@ This project was to use Jupyter Notebook to carry out analysis and visualization
   4. Ride Count Data (2019)
   5. Total Riders by City Type
   7. Total Drivers by City Type
-  8. Total Far by City Type
+  8. Total Fare by City Type
 
 ## Results
+Total Fare by City Type
+<img src="Resources/Total Fare by City Type.png" width="500" height="300"> 
+
+Data Summary
+<img src="Resources/Data Summary.png" width="500" height="300"> 
+
+From 
 
 ## Summary
 
